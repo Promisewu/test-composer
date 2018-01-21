@@ -7,7 +7,7 @@
             "email": "1096733382@qq.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "monolog/monolog": "1.15.0"
     },
